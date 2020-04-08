@@ -19,5 +19,8 @@ public class MainMaven {
         System.out.print("\n\t.swapCase:  " + StringUtils.swapCase(userString));
         System.out.print("\n\t.reverse:  " + StringUtils.reverse(userString));
         System.out.print("\n\t.deleteWhiteSpace:  " + StringUtils.deleteWhitespace(userString) + "\n");
+
+
+
     }
 }
